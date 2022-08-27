@@ -1,0 +1,101 @@
+[
+    {
+    "id": 1,
+    "title": "Cotton Gray Shirt",
+    "price": "$6",
+    "brand": "UNIQLO",
+    "url": "#",
+    "image": "https://demo.products-filter.com/wp-content/uploads/2022/06/coofandy-mens-flower-shirt-hawaiian-sets-casual-button-down-short-sleeve-shirt-150x150.jpg",
+    "collection_id": 1
+    },
+    {
+    "id": 2,
+    "title": "Purple Croptop-Shirt",
+    "price": "$30",
+    "brand": "UNIQLO",
+    "url": "#",
+    "image": "https://demo.products-filter.com/wp-content/uploads/2022/06/coofandy-mens-flower-shirt-hawaiian-sets-casual-button-down-short-sleeve-shirt-150x150.jpg",
+    "collection_id": 1
+    },
+    {
+    "id": 3,
+    "title": "Women Pink Shirt",
+    "price": "$6",
+    "brand": "UNIQLO",
+    "url": "#",
+    "image": "https://demo.products-filter.com/wp-content/uploads/2022/06/coofandy-mens-flower-shirt-hawaiian-sets-casual-button-down-short-sleeve-shirt-150x150.jpg",
+    "collection_id": 1
+    },
+    {
+    "id": 4,
+    "title": "Black Cotton Shirt",
+    "price": "$6",
+    "brand": "UNIQLO",
+    "url": "#",
+    "image": "https://demo.products-filter.com/wp-content/uploads/2022/06/coofandy-mens-flower-shirt-hawaiian-sets-casual-button-down-short-sleeve-shirt-150x150.jpg",
+    "collection_id": 1
+    },
+    {
+    "id": 5,
+    "title": "Women White Shirt",
+    "price": "$2",
+    "brand": "UNIQLO",
+    "url": "#",
+    "image": "https://demo.products-filter.com/wp-content/uploads/2022/06/coofandy-mens-flower-shirt-hawaiian-sets-casual-button-down-short-sleeve-shirt-150x150.jpg",
+    "collection_id": 1
+    },
+    {
+    "id": 6,
+    "title": "Liga Sideline Polo",
+    "price": "$7",
+    "brand": "Zara",
+    "url": "#",
+    "image": "https://demo.products-filter.com/wp-content/uploads/2022/06/coofandy-mens-flower-shirt-hawaiian-sets-casual-button-down-short-sleeve-shirt-150x150.jpg",
+    "collection_id": 2
+    },
+    {
+    "id": 7,
+    "title": "Uniform Polo",
+    "price": "$10",
+    "brand": "Zara",
+    "url": "#",
+    "image": "https://demo.products-filter.com/wp-content/uploads/2022/06/coofandy-mens-flower-shirt-hawaiian-sets-casual-button-down-short-sleeve-shirt-150x150.jpg",
+    "collection_id": 2
+    },
+    {
+    "id": 8,
+    "title": "Herita Prix Polo",
+    "price": "$20",
+    "brand": "Zara",
+    "url": "#",
+    "image": "https://demo.products-filter.com/wp-content/uploads/2022/06/coofandy-mens-flower-shirt-hawaiian-sets-casual-button-down-short-sleeve-shirt-150x150.jpg",
+    "collection_id": 2
+    },
+    {
+    "id": 9,
+    "title": "Women Shoes",
+    "price": "$100",
+    "brand": "Bitis",
+    "url": "#",
+    "image": "https://demo.products-filter.com/wp-content/uploads/2022/06/coofandy-mens-flower-shirt-hawaiian-sets-casual-button-down-short-sleeve-shirt-150x150.jpg",
+    "collection_id": 3
+    },
+    {
+    "id": 10,
+    "title": "Autumn Shoes",
+    "price": "$50",
+    "brand": "Bitis",
+    "url": "#",
+    "image": "https://demo.products-filter.com/wp-content/uploads/2022/06/coofandy-mens-flower-shirt-hawaiian-sets-casual-button-down-short-sleeve-shirt-150x150.jpg",
+    "collection_id": 3
+    },
+    {
+    "id": 11,
+    "title": "Lightweight Shoes",
+    "price": "$52",
+    "brand": "Bitis",
+    "url": "#",
+    "image": "https://demo.products-filter.com/wp-content/uploads/2022/06/coofandy-mens-flower-shirt-hawaiian-sets-casual-button-down-short-sleeve-shirt-150x150.jpg",
+    "collection_id": 3
+    }
+]
