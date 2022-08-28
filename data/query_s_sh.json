@@ -1,0 +1,89 @@
+[
+    {
+        "terms": [
+            {
+                "term": "shirt",
+                "url": "#"
+            },
+            {
+                "term": "cotton shirt",
+                "url": "#"
+            },
+            {
+                "term": "trendy shirt",
+                "url": "#"
+            },
+              {
+                "term": "shoes",
+                "url": "#"
+            },
+            {
+                "term": "autumn shoes",
+                "url": "#"
+            },
+            {
+                "term": "black shoes",
+                "url": "#"
+            }
+        ],
+        "collections": [
+            {
+                "id": 1,
+                "title": "Shirt",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Shoes",
+                "url": "#"
+            }
+        ],
+        "products": [
+            {
+                "id": 1,
+                "title": "Cotton Gray Shirt",
+                "price": "$6",
+                "brand": "UNIQLO",
+                "url": "#",
+                "image": "https://cdn.shopify.com/s/files/1/0347/5626/4067/products/1_de8394ad-9721-4421-883d-4d77cf729c0c_200x.jpg?v=1583456390",
+                "collection_id": 1
+            },
+            {
+                "id": 2,
+                "title": "Purple Croptop-Shirt",
+                "price": "$30",
+                "brand": "UNIQLO",
+                "url": "#",
+                "image": "https://cdn.shopify.com/s/files/1/0347/5626/4067/products/1_1cce1ebb-0d80-4aa2-a8ac-17705f8832e9_200x.jpg?v=1583456333",
+                "collection_id": 1
+            },
+            {
+                "id": 3,
+                "title": "Women Pink Shirt",
+                "price": "$6",
+                "brand": "UNIQLO",
+                "url": "#",
+                "image": "https://cdn.shopify.com/s/files/1/0347/5626/4067/products/1_ca579dcf-5c97-4991-a5bb-997c3d79113a_200x.jpg?v=1583456351",
+                "collection_id": 1
+            },
+            {
+                "id": 10,
+                "title": "Autumn Shoes",
+                "price": "$50",
+                "brand": "Bitis",
+                "url": "#",
+                "image": "https://cdn.shopify.com/s/files/1/0347/5626/4067/products/1_8ac0407c-44b1-4057-9dd2-3f7502079180_200x.jpg?v=1583455777",
+                "collection_id": 3
+            },
+            {
+                "id": 11,
+                "title": "Lightweight Shoes",
+                "price": "$52",
+                "brand": "Bitis",
+                "url": "#",
+                "image": "https://cdn.shopify.com/s/files/1/0347/5626/4067/products/1_b3b82dc5-d752-44ce-8a8c-1753ed2847f1_200x.jpg?v=1583455851",
+                "collection_id": 3
+            }
+        ]
+    }    
+]

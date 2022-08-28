@@ -1,0 +1,54 @@
+[
+    {
+        "terms": [
+                {
+                    "term": "classic polo",
+                    "url": "#"
+                },
+                {
+                    "term": "wicking polo",
+                    "url": "#"
+                },
+                {
+                    "term": "sideline polo",
+                    "url": "#"
+                }
+        ],
+        "collections": [
+             {
+                "id": 2,
+                "title": "Polo",
+                "url": "#"
+            }
+        ],
+        "products": [
+            {
+    "id": 6,
+    "title": "Liga Sideline Polo",
+    "price": "$7",
+    "brand": "Zara",
+    "url": "#",
+    "image": "https://cdn.shopify.com/s/files/1/0347/5626/4067/products/1_93b5cfb8-2b54-4b6f-830a-3027487d7d0b_200x.jpg?v=1644387849",
+    "collection_id": 2
+    },
+    {
+    "id": 7,
+    "title": "Uniform Polo",
+    "price": "$10",
+    "brand": "Zara",
+    "url": "#",
+    "image": "https://cdn.shopify.com/s/files/1/0347/5626/4067/products/1_9df5d3e3-5655-4e8c-9395-7ee7efabedfd_200x.jpg?v=1644387816",
+    "collection_id": 2
+    },
+    {
+    "id": 8,
+    "title": "Herita Prix Polo",
+    "price": "$20",
+    "brand": "Zara",
+    "url": "#",
+    "image": "https://cdn.shopify.com/s/files/1/0347/5626/4067/products/1_f82f1f6b-3fa0-49f9-841f-4100b6359097_200x.jpg?v=1644387875",
+    "collection_id": 2
+    }
+        ]
+    }    
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "terms": [
+            {
+                "term": "shirt",
+                "url": "#"
+            },
+            {
+                "term": "cotton shirt",
+                "url": "#"
+            },
+            {
+                "term": "trendy shirt",
+                "url": "#"
+            }
+        ],
+        "collections": [
+            {
+                "id": 1,
+                "title": "Shirt",
+                "url": "#"
+            }
+        ],
+        "products": [
+            {
+                "id": 1,
+                "title": "Cotton Gray Shirt",
+                "price": "$6",
+                "brand": "UNIQLO",
+                "url": "#",
+                "image": "https://cdn.shopify.com/s/files/1/0347/5626/4067/products/1_de8394ad-9721-4421-883d-4d77cf729c0c_200x.jpg?v=1583456390",
+                "collection_id": 1
+            },
+            {
+                "id": 2,
+                "title": "Purple Croptop-Shirt",
+                "price": "$30",
+                "brand": "UNIQLO",
+                "url": "#",
+                "image": "https://cdn.shopify.com/s/files/1/0347/5626/4067/products/1_1cce1ebb-0d80-4aa2-a8ac-17705f8832e9_200x.jpg?v=1583456333",
+                "collection_id": 1
+            },
+            {
+                "id": 3,
+                "title": "Women Pink Shirt",
+                "price": "$6",
+                "brand": "UNIQLO",
+                "url": "#",
+                "image": "https://cdn.shopify.com/s/files/1/0347/5626/4067/products/1_ca579dcf-5c97-4991-a5bb-997c3d79113a_200x.jpg?v=1583456351",
+                "collection_id": 1
+            },
+            {
+            "id": 4,
+            "title": "Black Cotton Shirt",
+            "price": "$6",
+            "brand": "UNIQLO",
+            "url": "#",
+            "image": "https://cdn.shopify.com/s/files/1/0347/5626/4067/products/1_21258682-4732-4c0c-b15d-9b62d4450c64_200x.jpg?v=1583456370",
+            "collection_id": 1
+            },
+            {
+            "id": 5,
+            "title": "Women White Shirt",
+            "price": "$2",
+            "brand": "UNIQLO",
+            "url": "#",
+            "image": "https://cdn.shopify.com/s/files/1/0347/5626/4067/products/1_6f48ba87-4f78-4208-be78-0f7c42a9c816_200x.jpg?v=1583456380",
+            "collection_id": 1
+            }
+        ]
+    }    
+]
