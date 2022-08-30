@@ -240,7 +240,7 @@ class ProductsBlock extends WidgetBlock {
     }
 
     // Override from WidgetBlock
-    displayBlock(products,) {
+    displayBlock(products) {
         let $ul = this.createElement('ul', 'product-list');
         if (products.length) {
             products.slice(0, this.maximumItems).forEach((product) => {
@@ -332,8 +332,17 @@ function main() {
         className: 'product-container'
     }
 
-    const widgetView = new WidgetView('search', 'clear-search-btn', 'widget-container', suggestionSetting, collectionSetting, productSetting, orderSetting);
-    const widgetModel = new WidgetModel();
+    const widgetView = new WidgetView(
+        'search',
+        'clear-search-btn',
+        'widget-container',
+        suggestionSetting,
+        collectionSetting,
+        productSetting,
+        orderSetting
+    );
+
+    const widgetModel = new WidgetModel(1);
     const app = new WidgetController(widgetModel, widgetView);
     const appView = app.view;
     const appModel = app.model;
